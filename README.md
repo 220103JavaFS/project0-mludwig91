@@ -11,15 +11,15 @@ Possible examples include:
 
 **Requirements**
 * Technologies:
-  *	Java 8
-    * Javalin (HTTP handling)
-    * JDBC (Database Connectivity)
-    * JUnit (Unit Testing)
-    * Logback (Logging)
+  * Java 8
+  * Javalin (HTTP handling)
+  * JDBC (Database Connectivity)
+  * JUnit (Unit Testing)
+  * Logback (Logging)
   * PostgreSQL
   * Postman (HTTP messaging)
   * Gradle (Dependency Management)
-*	Functionalities: 
+  * Functionalities: 
   * Multi-tier Users - There must be at least three different types of user accounts each different functionality access. 
   * Basic mathematic manipulation of the fields of an entity object.
   * User login with passwords and logout.
